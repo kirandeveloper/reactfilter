@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "Martine of Martine's Table",
+    "prdimg":"./img/laptop01.jpg",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Laptop', 'Desktop', 'Keyboard']",
+    "Ranking": 1,
+    "href": "product1.html",
+    "Number of Reviews": 136
+  },
+  {
+    "Name": "De Silveren Spiegel",
+    "prdimg":"./img/laptop02.jpg",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Desktop', 'Keyboard', 'Pendrive', 'Monitor']",
+    "Ranking": 2,
+    "href": "product2.html",
+    "Number of Reviews": 812
+  },
+  {
+    "Name": "La Rive",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Mediterranean', 'Laptop', 'International', 'Keyboard', 'Pendrive', 'Vegan Options']",
+    "Ranking": 3,
+    "href": "product3.html",
+    "Number of Reviews": 567
+  },
+  {
+    "Name": "Vinkeles",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Laptop', 'Keyboard', 'International', 'Contemporary', 'Pendrive', 'Vegan Options', 'Monitor']",
+    "Ranking": 4,
+    "href": "product5.html",
+    "Number of Reviews": 564
+  },
+  {
+    "Name": "Librije's Zusje Amsterdam",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Desktop', 'Keyboard', 'International', 'Pendrive', 'Vegan Options', 'Monitor']",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+  {
+    "Name": "Ciel Bleu Restaurant",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Contemporary', 'International', 'Pendrive', 'Vegan Options', 'Monitor']",
+    "Ranking": 6,
+    "Rating": 4.5,
+    "Number of Reviews": 745
+  },
+  {
+    "Name": "Zaza's",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Laptop', 'International', 'Mediterranean', 'Keyboard', 'Pendrive', 'Vegan Options', 'Monitor']",
+    "Ranking": 7,
+    "Rating": 4.5,
+    "Number of Reviews": 1455
+  },
+  {
+    "Name": "Blue Pepper Restaurant And Candlelight Cruises",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Asian', 'Indonesian', 'Pendrive', 'Vegan Options', 'Monitor']",
+    "Ranking": 8,
+    "Rating": 4.5,
+    "Number of Reviews": 675
+  },
+  {
+    "Name": "Teppanyaki Restaurant Sazanka",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Japanese', 'Asian', 'Pendrive', 'Vegan Options', 'Monitor']",
+    "Ranking": 9,
+    "Rating": 4.5,
+    "Number of Reviews": 923
+  },
+  {
+    "Name": "Rob Wigboldus Vishandel",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Desktop', 'Seafood', 'Fast Food']",
+    "Ranking": 10,
+    "Rating": 4.5,
+    "Number of Reviews": 450
+  },
+  {
+    "Name": "The Happy Bull",
+    "City": "Amsterdam",
+    "Cuisine Style": "['American', 'Bar', 'Keyboard', 'Pendrive', 'Monitor']",
+    "Ranking": 11,
+    "Rating": 4.5,
+    "Number of Reviews": 295
+  },
+  {
+    "Name": "Gartine",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Laptop', 'Desktop', 'International', 'Keyboard', 'Pendrive', 'Vegan Options', 'Monitor']",
+    "Ranking": 12,
+    "Rating": 4.5,
+    "Number of Reviews": 967
+  },
+  {
+    "Name": "Restaurant Adam",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Laptop', 'Keyboard', 'Central European', 'Pendrive', 'Vegan Options', 'Monitor']",
+    "Ranking": 13,
+    "Rating": 4.5,
+    "Number of Reviews": 368
+  },
+  {
+    "Name": "Biercafe Gollem",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Bar', 'Pub']",
+    "Ranking": 14,
+    "Rating": 4.5,
+    "Number of Reviews": 586
+  },
+  {
+    "Name": "Restaurant Daalder",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Laptop', 'Desktop', 'International', 'Keyboard', 'Pendrive', 'Vegan Options', 'Monitor']",
+    "Ranking": 15,
+    "Rating": 4.5,
+    "Number of Reviews": 1246
+  },
+  {
+    "Name": "Greenwoods Keizersgracht",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Desktop', 'Cafe', 'Keyboard', 'British', 'Pendrive', 'Vegan Options', 'Monitor']",
+    "Ranking": 16,
+    "Rating": 4.5,
+    "Number of Reviews": 1391
+  },
+  {
+    "Name": "Omelegg - City Centre",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Desktop', 'Keyboard', 'Healthy', 'International', 'Pendrive', 'Monitor']",
+    "Ranking": 17,
+    "Rating": 4.5,
+    "Number of Reviews": 1633
+  },
+  {
+    "Name": "Brasserie Ambassade",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Laptop', 'Bar', 'International', 'Keyboard', 'Seafood', 'Pendrive', 'Monitor']",
+    "Ranking": 18,
+    "Rating": 4.5,
+    "Number of Reviews": 958
+  },
+  {
+    "Name": "Sherpa Restaurant",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Indian', 'Tibetan', 'Nepali', 'Pendrive', 'Vegan Options', 'Monitor']",
+    "Ranking": 19,
+    "Rating": 4.5,
+    "Number of Reviews": 426
+  },
+  {
+    "Name": "La Maschera Lillotatini",
+    "City": "Amsterdam",
+    "Cuisine Style": "['Italian', 'Mediterranean', 'Keyboard', 'Pendrive']",
+    "Ranking": 20,
+    "Rating": 4.5,
+    "Number of Reviews": 421
+  },
+  {
+    "Name": "Senses Restaurant",
+    "City": "Amsterdam",
+    "Cuisine Style": "['International', 'Keyboard']",
+    "Ranking": 21,
+    "Rating": 4.5,
+    "Number of Reviews": 1380
+  }  
+]
